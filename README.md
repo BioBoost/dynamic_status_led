@@ -1,6 +1,7 @@
-# Simple Logger for mBed
+# Dynamic Status LED
 
 This library contains a simple but versatile status led. Create a status led that:
+
 * periodically blinks
 * shows a small burst and than goes out for a longer period (low-power apps)
 * triggers for a certain number of times
